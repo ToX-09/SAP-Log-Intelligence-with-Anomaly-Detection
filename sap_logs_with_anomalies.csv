@@ -1,0 +1,201 @@
+Timestamp,User,Event_Type,Message,Hour,Day,Event_Code,Anomaly
+2025-05-06 09:10:00,BASIS01,Login,Login performed by BASIS01,9,6,1,Normal
+2025-05-01 22:20:00,USER02,Logout,Logout performed by USER02,22,1,2,Anomaly
+2025-05-05 01:50:00,USER02,Logout,Logout performed by USER02,1,5,2,Normal
+2025-05-04 22:31:00,USER03,System Restart,System Restart performed by USER03,22,4,3,Normal
+2025-05-05 07:34:00,USER02,Logout,Logout performed by USER02,7,5,2,Normal
+2025-05-05 16:25:00,BASIS01,Login,Login performed by BASIS01,16,5,1,Normal
+2025-05-01 15:46:00,USER02,System Restart,System Restart performed by USER02,15,1,3,Normal
+2025-05-04 09:46:00,USER02,Login,Login performed by USER02,9,4,1,Normal
+2025-05-05 04:58:00,BASIS01,Transport Import,Transport Import performed by BASIS01,4,5,4,Normal
+2025-05-07 02:42:00,USER01,Transport Import,Transport Import performed by USER01,2,7,4,Normal
+2025-05-02 12:05:00,USER01,Error,Error performed by USER01,12,2,0,Normal
+2025-05-01 20:49:00,USER03,Login,Login performed by USER03,20,1,1,Normal
+2025-05-06 03:49:00,USER02,Transport Import,Transport Import performed by USER02,3,6,4,Normal
+2025-05-03 00:33:00,USER03,Login,Login performed by USER03,0,3,1,Normal
+2025-05-05 00:31:00,USER03,Error,Error performed by USER03,0,5,0,Anomaly
+2025-05-04 20:11:00,USER01,Logout,Logout performed by USER01,20,4,2,Normal
+2025-05-05 19:00:00,USER03,Login,Login performed by USER03,19,5,1,Normal
+2025-05-02 03:44:00,USER03,Logout,Logout performed by USER03,3,2,2,Normal
+2025-05-04 11:55:00,ADMIN01,Login,Login performed by ADMIN01,11,4,1,Normal
+2025-05-03 16:25:00,USER01,Logout,Logout performed by USER01,16,3,2,Normal
+2025-05-05 18:36:00,USER02,Transport Import,Transport Import performed by USER02,18,5,4,Normal
+2025-05-07 08:26:00,USER01,Transport Import,Transport Import performed by USER01,8,7,4,Normal
+2025-05-07 18:34:00,BASIS01,System Restart,System Restart performed by BASIS01,18,7,3,Normal
+2025-05-03 02:38:00,USER01,Error,Error performed by USER01,2,3,0,Normal
+2025-05-06 18:49:00,ADMIN01,System Restart,System Restart performed by ADMIN01,18,6,3,Normal
+2025-05-02 18:07:00,USER03,Transport Import,Transport Import performed by USER03,18,2,4,Normal
+2025-05-03 05:47:00,USER03,System Restart,System Restart performed by USER03,5,3,3,Normal
+2025-05-07 16:47:00,USER01,Transport Import,Transport Import performed by USER01,16,7,4,Normal
+2025-05-08 06:38:00,ADMIN01,Login,Login performed by ADMIN01,6,8,1,Anomaly
+2025-05-01 11:09:00,USER01,Logout,Logout performed by USER01,11,1,2,Anomaly
+2025-05-03 05:34:00,USER03,Logout,Logout performed by USER03,5,3,2,Normal
+2025-05-03 10:05:00,USER02,Error,Error performed by USER02,10,3,0,Normal
+2025-05-04 13:38:00,USER02,Logout,Logout performed by USER02,13,4,2,Normal
+2025-05-02 15:39:00,ADMIN01,Logout,Logout performed by ADMIN01,15,2,2,Normal
+2025-05-06 16:54:00,USER03,Login,Login performed by USER03,16,6,1,Normal
+2025-05-02 05:07:00,USER01,Logout,Logout performed by USER01,5,2,2,Normal
+2025-05-02 09:28:00,USER03,Transport Import,Transport Import performed by USER03,9,2,4,Normal
+2025-05-03 19:16:00,ADMIN01,Login,Login performed by ADMIN01,19,3,1,Normal
+2025-05-04 00:50:00,USER01,Transport Import,Transport Import performed by USER01,0,4,4,Normal
+2025-05-07 11:18:00,USER03,Login,Login performed by USER03,11,7,1,Normal
+2025-05-05 01:53:00,USER02,Login,Login performed by USER02,1,5,1,Normal
+2025-05-07 10:32:00,USER03,Transport Import,Transport Import performed by USER03,10,7,4,Normal
+2025-05-07 04:33:00,USER03,Error,Error performed by USER03,4,7,0,Normal
+2025-05-06 13:13:00,BASIS01,Login,Login performed by BASIS01,13,6,1,Normal
+2025-05-03 03:32:00,ADMIN01,Login,Login performed by ADMIN01,3,3,1,Normal
+2025-05-06 05:21:00,ADMIN01,Error,Error performed by ADMIN01,5,6,0,Normal
+2025-05-07 23:15:00,USER02,Login,Login performed by USER02,23,7,1,Anomaly
+2025-05-05 15:55:00,BASIS01,Logout,Logout performed by BASIS01,15,5,2,Normal
+2025-05-05 03:26:00,BASIS01,Transport Import,Transport Import performed by BASIS01,3,5,4,Normal
+2025-05-06 06:19:00,USER03,Transport Import,Transport Import performed by USER03,6,6,4,Normal
+2025-05-08 01:10:00,ADMIN01,Logout,Logout performed by ADMIN01,1,8,2,Anomaly
+2025-05-01 20:55:00,ADMIN01,System Restart,System Restart performed by ADMIN01,20,1,3,Normal
+2025-05-07 01:06:00,ADMIN01,Login,Login performed by ADMIN01,1,7,1,Normal
+2025-05-03 12:32:00,ADMIN01,System Restart,System Restart performed by ADMIN01,12,3,3,Normal
+2025-05-02 10:25:00,ADMIN01,System Restart,System Restart performed by ADMIN01,10,2,3,Normal
+2025-05-04 01:43:00,ADMIN01,System Restart,System Restart performed by ADMIN01,1,4,3,Normal
+2025-05-06 13:55:00,ADMIN01,Error,Error performed by ADMIN01,13,6,0,Normal
+2025-05-03 11:13:00,ADMIN01,Error,Error performed by ADMIN01,11,3,0,Normal
+2025-05-02 01:01:00,USER01,Login,Login performed by USER01,1,2,1,Normal
+2025-05-04 00:03:00,ADMIN01,Login,Login performed by ADMIN01,0,4,1,Normal
+2025-05-06 21:09:00,ADMIN01,Error,Error performed by ADMIN01,21,6,0,Normal
+2025-05-08 01:32:00,USER01,System Restart,System Restart performed by USER01,1,8,3,Anomaly
+2025-05-06 02:33:00,USER03,Login,Login performed by USER03,2,6,1,Normal
+2025-05-05 06:35:00,USER01,System Restart,System Restart performed by USER01,6,5,3,Normal
+2025-05-01 10:41:00,USER02,Error,Error performed by USER02,10,1,0,Anomaly
+2025-05-04 07:37:00,USER02,Error,Error performed by USER02,7,4,0,Normal
+2025-05-02 00:35:00,USER03,System Restart,System Restart performed by USER03,0,2,3,Normal
+2025-05-06 15:09:00,USER03,System Restart,System Restart performed by USER03,15,6,3,Normal
+2025-05-07 21:47:00,ADMIN01,Logout,Logout performed by ADMIN01,21,7,2,Normal
+2025-05-02 00:56:00,USER03,Logout,Logout performed by USER03,0,2,2,Normal
+2025-05-06 19:09:00,USER02,Login,Login performed by USER02,19,6,1,Normal
+2025-05-05 19:19:00,USER03,Error,Error performed by USER03,19,5,0,Normal
+2025-05-06 19:32:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,19,6,4,Normal
+2025-05-06 02:23:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,2,6,4,Normal
+2025-05-06 19:56:00,BASIS01,Error,Error performed by BASIS01,19,6,0,Normal
+2025-05-07 06:09:00,BASIS01,Error,Error performed by BASIS01,6,7,0,Normal
+2025-05-01 22:38:00,BASIS01,Login,Login performed by BASIS01,22,1,1,Normal
+2025-05-07 18:28:00,ADMIN01,Logout,Logout performed by ADMIN01,18,7,2,Normal
+2025-05-04 17:27:00,USER02,System Restart,System Restart performed by USER02,17,4,3,Normal
+2025-05-04 16:59:00,BASIS01,Transport Import,Transport Import performed by BASIS01,16,4,4,Normal
+2025-05-05 17:31:00,USER03,System Restart,System Restart performed by USER03,17,5,3,Normal
+2025-05-07 06:51:00,ADMIN01,Logout,Logout performed by ADMIN01,6,7,2,Normal
+2025-05-07 08:44:00,USER03,Logout,Logout performed by USER03,8,7,2,Normal
+2025-05-06 08:08:00,ADMIN01,Login,Login performed by ADMIN01,8,6,1,Normal
+2025-05-04 23:56:00,ADMIN01,Login,Login performed by ADMIN01,23,4,1,Normal
+2025-05-02 18:22:00,USER03,Login,Login performed by USER03,18,2,1,Normal
+2025-05-01 09:04:00,USER02,Transport Import,Transport Import performed by USER02,9,1,4,Normal
+2025-05-06 21:26:00,USER03,Error,Error performed by USER03,21,6,0,Normal
+2025-05-03 02:48:00,USER01,Login,Login performed by USER01,2,3,1,Normal
+2025-05-05 03:03:00,USER02,Error,Error performed by USER02,3,5,0,Normal
+2025-05-02 17:47:00,ADMIN01,System Restart,System Restart performed by ADMIN01,17,2,3,Normal
+2025-05-03 04:55:00,BASIS01,Transport Import,Transport Import performed by BASIS01,4,3,4,Normal
+2025-05-08 01:27:00,BASIS01,Transport Import,Transport Import performed by BASIS01,1,8,4,Anomaly
+2025-05-04 23:38:00,USER01,Login,Login performed by USER01,23,4,1,Normal
+2025-05-05 05:38:00,USER01,Login,Login performed by USER01,5,5,1,Normal
+2025-05-06 00:16:00,USER02,System Restart,System Restart performed by USER02,0,6,3,Normal
+2025-05-01 14:31:00,BASIS01,Transport Import,Transport Import performed by BASIS01,14,1,4,Normal
+2025-05-05 10:12:00,USER02,Error,Error performed by USER02,10,5,0,Normal
+2025-05-03 19:21:00,USER02,Logout,Logout performed by USER02,19,3,2,Normal
+2025-05-05 15:04:00,USER03,Logout,Logout performed by USER03,15,5,2,Normal
+2025-05-03 11:39:00,USER01,Error,Error performed by USER01,11,3,0,Normal
+2025-05-05 16:38:00,USER01,System Restart,System Restart performed by USER01,16,5,3,Normal
+2025-05-07 03:52:00,ADMIN01,Error,Error performed by ADMIN01,3,7,0,Normal
+2025-05-03 11:44:00,BASIS01,System Restart,System Restart performed by BASIS01,11,3,3,Normal
+2025-05-06 08:15:00,BASIS01,Logout,Logout performed by BASIS01,8,6,2,Normal
+2025-05-03 00:54:00,ADMIN01,System Restart,System Restart performed by ADMIN01,0,3,3,Normal
+2025-05-07 13:56:00,USER01,Logout,Logout performed by USER01,13,7,2,Normal
+2025-05-03 05:31:00,USER01,Transport Import,Transport Import performed by USER01,5,3,4,Normal
+2025-05-06 23:54:00,USER01,Transport Import,Transport Import performed by USER01,23,6,4,Anomaly
+2025-05-08 02:42:00,BASIS01,Transport Import,Transport Import performed by BASIS01,2,8,4,Normal
+2025-05-04 20:16:00,USER03,Error,Error performed by USER03,20,4,0,Normal
+2025-05-06 23:10:00,BASIS01,Logout,Logout performed by BASIS01,23,6,2,Normal
+2025-05-04 00:00:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,0,4,4,Normal
+2025-05-02 01:08:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,1,2,4,Anomaly
+2025-05-06 11:05:00,USER03,Login,Login performed by USER03,11,6,1,Normal
+2025-05-01 16:22:00,USER02,Login,Login performed by USER02,16,1,1,Normal
+2025-05-06 03:10:00,USER02,Logout,Logout performed by USER02,3,6,2,Normal
+2025-05-07 15:02:00,USER02,Logout,Logout performed by USER02,15,7,2,Normal
+2025-05-06 03:38:00,USER01,System Restart,System Restart performed by USER01,3,6,3,Normal
+2025-05-04 10:48:00,USER03,Login,Login performed by USER03,10,4,1,Normal
+2025-05-01 11:26:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,11,1,4,Normal
+2025-05-04 21:34:00,USER02,Error,Error performed by USER02,21,4,0,Normal
+2025-05-05 11:37:00,BASIS01,Logout,Logout performed by BASIS01,11,5,2,Normal
+2025-05-06 16:41:00,USER01,System Restart,System Restart performed by USER01,16,6,3,Normal
+2025-05-06 05:15:00,USER02,Logout,Logout performed by USER02,5,6,2,Normal
+2025-05-02 08:44:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,8,2,4,Normal
+2025-05-06 18:58:00,BASIS01,Login,Login performed by BASIS01,18,6,1,Normal
+2025-05-01 22:23:00,USER01,Transport Import,Transport Import performed by USER01,22,1,4,Anomaly
+2025-05-03 06:30:00,BASIS01,Error,Error performed by BASIS01,6,3,0,Normal
+2025-05-06 11:28:00,USER01,Login,Login performed by USER01,11,6,1,Normal
+2025-05-07 09:55:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,9,7,4,Normal
+2025-05-04 21:16:00,USER03,Logout,Logout performed by USER03,21,4,2,Normal
+2025-05-05 12:19:00,USER03,Transport Import,Transport Import performed by USER03,12,5,4,Normal
+2025-05-02 13:17:00,USER01,Error,Error performed by USER01,13,2,0,Normal
+2025-05-06 14:14:00,USER01,Error,Error performed by USER01,14,6,0,Normal
+2025-05-05 18:14:00,BASIS01,System Restart,System Restart performed by BASIS01,18,5,3,Normal
+2025-05-06 02:52:00,BASIS01,Error,Error performed by BASIS01,2,6,0,Normal
+2025-05-02 11:58:00,USER03,System Restart,System Restart performed by USER03,11,2,3,Normal
+2025-05-03 14:02:00,BASIS01,System Restart,System Restart performed by BASIS01,14,3,3,Normal
+2025-05-04 13:16:00,USER01,Error,Error performed by USER01,13,4,0,Normal
+2025-05-02 01:39:00,BASIS01,Login,Login performed by BASIS01,1,2,1,Normal
+2025-05-05 23:08:00,ADMIN01,Logout,Logout performed by ADMIN01,23,5,2,Normal
+2025-05-08 05:14:00,ADMIN01,Login,Login performed by ADMIN01,5,8,1,Anomaly
+2025-05-03 12:37:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,12,3,4,Normal
+2025-05-05 10:35:00,BASIS01,Error,Error performed by BASIS01,10,5,0,Normal
+2025-05-08 03:09:00,USER01,System Restart,System Restart performed by USER01,3,8,3,Anomaly
+2025-05-03 04:53:00,USER02,System Restart,System Restart performed by USER02,4,3,3,Normal
+2025-05-03 20:27:00,USER02,Login,Login performed by USER02,20,3,1,Normal
+2025-05-07 23:15:00,USER02,System Restart,System Restart performed by USER02,23,7,3,Anomaly
+2025-05-05 02:50:00,USER03,System Restart,System Restart performed by USER03,2,5,3,Normal
+2025-05-02 11:43:00,BASIS01,System Restart,System Restart performed by BASIS01,11,2,3,Normal
+2025-05-08 02:01:00,USER03,Error,Error performed by USER03,2,8,0,Anomaly
+2025-05-05 05:12:00,USER02,Login,Login performed by USER02,5,5,1,Normal
+2025-05-06 11:12:00,USER03,Login,Login performed by USER03,11,6,1,Normal
+2025-05-02 05:46:00,ADMIN01,Login,Login performed by ADMIN01,5,2,1,Normal
+2025-05-06 00:56:00,USER01,Transport Import,Transport Import performed by USER01,0,6,4,Normal
+2025-05-05 09:44:00,ADMIN01,Login,Login performed by ADMIN01,9,5,1,Normal
+2025-05-07 21:54:00,BASIS01,Logout,Logout performed by BASIS01,21,7,2,Normal
+2025-05-06 13:26:00,USER01,Transport Import,Transport Import performed by USER01,13,6,4,Normal
+2025-05-07 12:21:00,USER03,Transport Import,Transport Import performed by USER03,12,7,4,Normal
+2025-05-05 04:55:00,USER02,Login,Login performed by USER02,4,5,1,Normal
+2025-05-05 04:10:00,USER01,Logout,Logout performed by USER01,4,5,2,Normal
+2025-05-04 09:33:00,USER02,Error,Error performed by USER02,9,4,0,Normal
+2025-05-03 22:28:00,ADMIN01,Login,Login performed by ADMIN01,22,3,1,Normal
+2025-05-01 19:03:00,USER02,Transport Import,Transport Import performed by USER02,19,1,4,Anomaly
+2025-05-02 17:18:00,USER02,Logout,Logout performed by USER02,17,2,2,Normal
+2025-05-06 21:14:00,USER02,Transport Import,Transport Import performed by USER02,21,6,4,Normal
+2025-05-02 08:55:00,ADMIN01,Login,Login performed by ADMIN01,8,2,1,Normal
+2025-05-03 15:04:00,ADMIN01,Logout,Logout performed by ADMIN01,15,3,2,Normal
+2025-05-03 22:43:00,ADMIN01,Error,Error performed by ADMIN01,22,3,0,Normal
+2025-05-04 23:12:00,USER03,System Restart,System Restart performed by USER03,23,4,3,Normal
+2025-05-02 14:53:00,BASIS01,Login,Login performed by BASIS01,14,2,1,Normal
+2025-05-05 21:45:00,USER03,Logout,Logout performed by USER03,21,5,2,Normal
+2025-05-02 05:31:00,USER02,Logout,Logout performed by USER02,5,2,2,Normal
+2025-05-03 19:41:00,ADMIN01,Login,Login performed by ADMIN01,19,3,1,Normal
+2025-05-06 13:54:00,USER01,Logout,Logout performed by USER01,13,6,2,Normal
+2025-05-06 09:20:00,USER01,Transport Import,Transport Import performed by USER01,9,6,4,Normal
+2025-05-02 11:16:00,BASIS01,System Restart,System Restart performed by BASIS01,11,2,3,Normal
+2025-05-03 21:36:00,BASIS01,Error,Error performed by BASIS01,21,3,0,Normal
+2025-05-01 19:38:00,BASIS01,Login,Login performed by BASIS01,19,1,1,Normal
+2025-05-04 14:57:00,BASIS01,Error,Error performed by BASIS01,14,4,0,Normal
+2025-05-01 22:14:00,USER02,System Restart,System Restart performed by USER02,22,1,3,Normal
+2025-05-07 00:04:00,USER02,Error,Error performed by USER02,0,7,0,Anomaly
+2025-05-05 09:35:00,USER01,Login,Login performed by USER01,9,5,1,Normal
+2025-05-06 11:12:00,ADMIN01,System Restart,System Restart performed by ADMIN01,11,6,3,Normal
+2025-05-05 20:48:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,20,5,4,Normal
+2025-05-04 23:29:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,23,4,4,Normal
+2025-05-04 22:12:00,ADMIN01,Transport Import,Transport Import performed by ADMIN01,22,4,4,Normal
+2025-05-02 12:27:00,ADMIN01,Logout,Logout performed by ADMIN01,12,2,2,Normal
+2025-05-05 08:31:00,USER01,System Restart,System Restart performed by USER01,8,5,3,Normal
+2025-05-08 05:25:00,USER01,Transport Import,Transport Import performed by USER01,5,8,4,Anomaly
+2025-05-05 04:15:00,USER03,System Restart,System Restart performed by USER03,4,5,3,Normal
+2025-05-04 18:11:00,BASIS01,Logout,Logout performed by BASIS01,18,4,2,Normal
+2025-05-03 18:30:00,USER03,Error,Error performed by USER03,18,3,0,Normal
+2025-05-01 11:22:00,USER02,Transport Import,Transport Import performed by USER02,11,1,4,Normal
+2025-05-04 06:18:00,USER01,System Restart,System Restart performed by USER01,6,4,3,Normal
+2025-05-07 13:18:00,ADMIN01,Error,Error performed by ADMIN01,13,7,0,Normal
+2025-05-04 09:09:00,BASIS01,System Restart,System Restart performed by BASIS01,9,4,3,Normal
+2025-05-02 22:47:00,USER02,Error,Error performed by USER02,22,2,0,Anomaly
+2025-05-06 21:24:00,ADMIN01,System Restart,System Restart performed by ADMIN01,21,6,3,Normal
